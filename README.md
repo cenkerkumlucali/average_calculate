@@ -1,16 +1,7 @@
-# dinamik_ortalama_hesapla
+<h1 align="center"> Average Calculate  </h1>
 
-A new Flutter project.
+<div align="center">
+<img src="https://github.com/cenkerkumlucali/average_calculate/blob/master/screenshots/simulator_screenshot_E347E637-2261-4FF2-BC82-13BCCEBA42E5.png" data-canonical-src="https://github.com/cenkerkumlucali/average_calculate/blob/master/screenshots/simulator_screenshot_E347E637-2261-4FF2-BC82-13BCCEBA42E5.png" width="400" height="800" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/cenkerkumlucali/average_calculate/blob/master/screenshots/simulator_screenshot_CF489C84-9127-413B-83A0-53000CB79440.png" data-canonical-src="https://github.com/cenkerkumlucali/average_calculate/blob/master/screenshots/simulator_screenshot_CF489C84-9127-413B-83A0-53000CB79440.png" width="400" height="800" />
+</div>
